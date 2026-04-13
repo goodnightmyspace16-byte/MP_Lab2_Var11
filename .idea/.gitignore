@@ -1,5 +1,5 @@
-# Игнорируемые файлы по умолчанию
-/shelf/
-/workspace.xml
-# HTTP-клиент на основе редактора
-/httpRequests/
+.idea/
+__pycache__/
+*.o
+*.exe
+build/
