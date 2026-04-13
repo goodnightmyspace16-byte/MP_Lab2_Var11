@@ -1,0 +1,27 @@
+{
+    "all_data": [
+        {
+            "city": "Moscow",
+            "temp": 12.36,
+            "wind_speed": 4.97,
+            "description": "пасмурно"
+        },
+        {
+            "city": "London",
+            "temp": 12.38,
+            "wind_speed": 3.13,
+            "description": "небольшой дождь"
+        },
+        {
+            "city": "Dubai",
+            "temp": 25.31,
+            "wind_speed": 3.95,
+            "description": "пасмурно"
+        }
+    ],
+    "summary": {
+        "warmest_city": "Dubai",
+        "coldest_city": "Moscow",
+        "windiest_city": "Moscow"
+    }
+}

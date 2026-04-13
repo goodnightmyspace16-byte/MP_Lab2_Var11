@@ -83,4 +83,3 @@ if __name__ == "__main__":
         final_report = analyze_weather(weather_list)
         save_json(final_report)
         save_xml(final_report)
-        print("\nРабота успешно завершена.")

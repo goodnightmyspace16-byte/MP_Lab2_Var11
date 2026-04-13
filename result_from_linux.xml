@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<WeatherReport><Summary><warmest_city>Dubai</warmest_city><coldest_city>Moscow</coldest_city><windiest_city>Moscow</windiest_city></Summary><Cities><City><city>Moscow</city><temp>12.36</temp><wind_speed>4.97</wind_speed><description>пасмурно</description></City><City><city>London</city><temp>12.38</temp><wind_speed>3.13</wind_speed><description>небольшой дождь</description></City><City><city>Dubai</city><temp>25.31</temp><wind_speed>3.95</wind_speed><description>пасмурно</description></City></Cities></WeatherReport>

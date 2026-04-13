@@ -2,21 +2,21 @@
     "all_data": [
         {
             "city": "Moscow",
-            "temp": 10.41,
-            "wind_speed": 4.61,
+            "temp": 11.76,
+            "wind_speed": 4.97,
             "description": "пасмурно"
         },
         {
             "city": "London",
-            "temp": 12.84,
-            "wind_speed": 2.57,
-            "description": "небольшая облачность"
+            "temp": 12.29,
+            "wind_speed": 3.6,
+            "description": "пасмурно"
         },
         {
             "city": "Dubai",
-            "temp": 25.9,
-            "wind_speed": 3.99,
-            "description": "облачно с прояснениями"
+            "temp": 25.54,
+            "wind_speed": 3.95,
+            "description": "пасмурно"
         }
     ],
     "summary": {
